@@ -1,11 +1,11 @@
 import Header from './components/Header';
 
 function App() {
-  const name = 'derick';
+  const name = 'Task Tracker';
 
   return (
     <div className="container">
-      <Header title='Hello' />
+      <Header title={name} />
     </div>
   );
 }
