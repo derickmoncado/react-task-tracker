@@ -1,17 +1,13 @@
-import React from 'react';
-import Button from './Button';
+import React from "react";
+import Button from "./Button";
 
-const Header = () => {
-  const onClick = () => {
-    console.log('click');
-  }
-
+const Header = ({ onAdd }) => {
   return (
     <header className="header">
       <h1>Task Tracker</h1>
-      <Button color='green' text='Add' onClick={onClick} />
+      <Button color="green" text="Add" onClick={onAdd} />
     </header>
   );
-}
+};
 
 export default Header;
