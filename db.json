@@ -17,6 +17,12 @@
       "day": "sdafdsa",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "take out the trash",
+      "day": "friday morning",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
