@@ -1,28 +1,22 @@
 {
   "tasks": [
     {
-      "text": "asdfasdf",
-      "day": "asdfsdfasdfsdf",
+      "text": "Learn React",
+      "day": "Everyday",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Take out trash",
+      "day": "Monday at 9am",
       "reminder": true,
       "id": 2
     },
     {
-      "text": "sdafadsfdasdfsdafsda",
-      "day": "sadfas",
+      "text": "Make dinner ",
+      "day": "Tonight at 7pm",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "asdfasdfads",
-      "day": "sdafdsa",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "take out the trash",
-      "day": "friday morning",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
