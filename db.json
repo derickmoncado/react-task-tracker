@@ -21,7 +21,7 @@
     {
       "text": "take out the trash",
       "day": "friday morning",
-      "reminder": true,
+      "reminder": false,
       "id": 5
     }
   ]
